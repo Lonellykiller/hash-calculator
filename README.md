@@ -1,0 +1,1 @@
+Редактируйте и изменяйте, создавая новую версию с каждым изменением | Edit and modify, creating a new version with each change

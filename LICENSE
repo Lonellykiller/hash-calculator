@@ -1,21 +1,41 @@
-MIT License
+Copyright (c) 2025 [Lonellykiller]
 
-Copyright (c) 2025 Lonellykiller
+=====================================
+РУССКАЯ ВЕРСИЯ ЛИЦЕНЗИИ
+=====================================
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Настоящим разрешается использование, копирование и модификация данного программного обеспечения 
+только в личных и некоммерческих целях.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Запрещается:
+- использовать программное обеспечение для получения прибыли;
+- распространять его за плату;
+- включать его в состав коммерческих продуктов или сервисов без письменного разрешения автора.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Программное обеспечение предоставляется «как есть», без каких-либо гарантий, 
+включая, но не ограничиваясь, гарантиями работоспособности или пригодности 
+для какой-либо конкретной цели. Автор не несёт ответственности за 
+какие-либо убытки, возникшие в результате использования данного программного обеспечения.
+
+Любое коммерческое использование возможно только при получении явного письменного разрешения автора.
+
+
+=====================================
+ENGLISH VERSION OF THE LICENSE
+=====================================
+
+Permission is hereby granted to use, copy, and modify this software 
+for personal and non-commercial purposes only.
+
+The following actions are prohibited:
+- using the software for profit;
+- distributing it for a fee;
+- including it in commercial products or services without the author’s written permission.
+
+The software is provided "as is", without any warranty of any kind, 
+express or implied, including but not limited to the warranties of 
+merchantability or fitness for a particular purpose. In no event shall 
+the author be liable for any claim, damages, or other liability, arising 
+from the use of this software.
+
+Any commercial use requires the author’s explicit written permission.

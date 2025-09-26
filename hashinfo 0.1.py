@@ -9,7 +9,7 @@ import zlib
 class HashCalculatorApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Hashcalc")
+        self.root.title("HashFile")
         self.root.geometry("1280x1024")
         
         self.create_widgets()
